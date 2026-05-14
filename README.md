@@ -60,7 +60,7 @@ python Program/main.py
 * Qiita | Javaの例外処理について: https://qiita.com/pitan109/items/c9910edddc007126df41
 
 ## ライセンス
-MIT License
+Unlicense license
 
 # English
 ## Overview
@@ -118,4 +118,4 @@ python Program/main.py
 * Qiita | Javaの例外処理について: https://qiita.com/pitan109/items/c9910edddc007126df41
 
 ## License
-MIT License.
+Unlicense license
